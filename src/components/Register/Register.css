@@ -1,0 +1,22 @@
+.mb-css{
+    padding-bottom: 300px;
+}
+::-webkit-scrollbar{
+    width: 10px;
+    border-radius: 10px;
+    background-color: rgb(245, 245, 245);
+}
+::-webkit-scrollbar-thumb{
+   background-color: #0D6EFD;
+   border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: black;
+}
+.mt-css{
+    margin-top: 10%;
+}
+.lottie-w-css{
+    width: 240px;
+    margin-left: 60px;
+}
